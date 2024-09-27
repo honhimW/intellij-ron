@@ -50,7 +50,7 @@ dependencies {
 intellijPlatform {
 
     pluginConfiguration {
-        changeNotes.set("""Updated to support 2020.3 edition of Intellij IDEs""")
+        changeNotes.set("""Updated to support 2024.2 edition of Intellij IDEs""")
     }
 
     publishing {
